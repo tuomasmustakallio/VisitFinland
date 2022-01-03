@@ -1,2 +1,2 @@
 # VisitFinland
-Side project app for a tourist app about finland.
+Side project for a tourist app about finland.
