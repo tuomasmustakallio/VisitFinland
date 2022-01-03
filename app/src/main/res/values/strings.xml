@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Visit Finland</string>
+
+    <string-array name="cities">
+        <item>Kouvola</item>
+        <item>Helsinki</item>
+        <item>Tampere</item>
+        <item>Oulu</item>
+        <item>Lappeenranta</item>
+        <item>Jyväskylä</item>
+        <item>Rovaniemi</item>
+        <item>Turku</item>
+    </string-array>
+
+    <string-array name="distances">
+        <item>85km</item>
+        <item>228km</item>
+        <item>275km</item>
+        <item>535km</item>
+        <item>3km</item>
+        <item>222km</item>
+        <item>779</item>
+        <item>388km</item>
+    </string-array>
+</resources>
